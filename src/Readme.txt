@@ -1,4 +1,11 @@
+GitHub
 
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/patcoston/midjourneygallery.git
+git push --set-upstream origin main --force
 
 Prompt for ChatGPT to generate the initial code.
 
