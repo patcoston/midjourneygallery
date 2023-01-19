@@ -154,6 +154,158 @@ const Gallery: React.FC = () => {
       image: 'OPe_by_Bert_Hardy_1c0b1c50-641f-4541-aff7-fd5c0c14a433.png',
       prompt: 'by Bert Hardy',
     },
+    {
+      image:
+        'Bjs_pits_n_grillz_Rerolling_Lowrider_Art_1965_Chevy_impala_supe_f4303f8a-f75f-47d9-9558-f9ccd8df9565.png',
+      prompt:
+        'Lowrider Art, 1965 Chevy impala super sport Lowrider car covered in psychedelic mushrooms, neon, green, blue, purple, pink,yellow, orange, red, retrowave, vaporwave, 8k, ultra detailed, glass plate etching, 3 dimensional',
+    },
+    {
+      image:
+        'human_portrait_a_beautiful_k-pop_female_beautiful_model_photogr_50a97bb0-0ae2-411e-b67e-fb49046fdd9f.png',
+      prompt:
+        "portrait a beautiful k-pop female beautiful model photographed by Sally Mann in black and white, complete the rest of the body, add the waist and legs, full scale, photo taken against the sun, the sun's rays illuminate the hair and back, hyper-detailed skin, hyper-realistic eyes, lavender hair, tall background, cinematic, 80mm, cinematic, epic landscape background --ar 2:3",
+    },
+    {
+      image:
+        'ingyt_highly_detailed_futuristic_post-apocalyptic_ruined_megaci_8a8636a5-c23c-4201-9d07-525370294000.png',
+      prompt:
+        'highly detailed futuristic post-apocalyptic ruined megacity style blade runner by John Berkey, --ar 2:3 --v 4',
+    },
+    {
+      image:
+        'ingyt_Zombie_apocalypse_abandoned_train_in_snowstorm_comic_book_86b5ab15-bbde-48bb-81ba-17c475c02404.png',
+      prompt:
+        'Zombie apocalypse: abandoned train in snowstorm, comic book page Ashley Wood style HD, ultrarealistic --v 4 --ar 2:3',
+    },
+    {
+      image:
+        '12volt_50s_scifi_robot_cupid_ultra_realistic_high_definition_ph_62000cc1-c355-4728-967a-2e3edde9eaea.png',
+      prompt:
+        '50s scifi robot cupid, ultra realistic, high definition, photo, ar 3:2',
+    },
+    {
+      image:
+        'AMAR_emerald_shooting_star_theme_louis_vuitton_luxury_retail_st_e8f48917-48cf-484b-b4c3-935615213b36.png',
+      prompt:
+        'emerald shooting star theme louis vuitton luxury retail store 8k, HD, cinematography, photorealistic, epic composition Unreal Engine, Cinematic, Color Grading, portrait Photography, Ultra-Wide Angle, Depth of Field, hyper-detailed, beautifully color-coded, insane details, intricate details, beautifully color graded, Unreal Engine, Cinematic, Color Grading, Editorial Photography, Photography, Photoshoot, Depth of Field, DOF, Tilt Blur, White Balance, 32k, Super-Resolution, Megapixel, ProPhoto RGB, VR, Halfrear Lighting, Backlight, Natural Lighting, Incandescent, Optical Fiber, Moody Lighting, Cinematic Lighting, Studio Lighting, Soft Lighting, Volumetric, Contre-Jour, Beautiful Lighting, Accent Lighting, Global Illumination, Screen Space Global Illumination, Ray Tracing Global Illumination, Optics, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Grading, Chromatic Aberration, GB Displacement, Scan Lines, Ray Traced, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post-Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed and intricate, hypermaximalist, elegant, hyper realistic, super detailed, dynamic pose, photography, 8k --v 4',
+    },
+    {
+      image:
+        'rkever2000_a_skeleton_decorted_like_a_sugar_skull_with_small_wi_7a794d1e-edd1-45d6-9ce2-cd7dd852a35a.png',
+      prompt:
+        'a skeleton decorted like a sugar skull with small wings coming out the side of his head similar to a puritan funerary symbol',
+    },
+    {
+      image:
+        'autumn_cafe_yellow_quartz_perfume_bottle_8k_HD_cinematography_p_c958d477-2bc2-4072-9423-d4c87854e8a8.png',
+      prompt:
+        'yellow quartz perfume bottle 8k, HD, cinematography, photorealistic, epic composition Unreal Engine, Cinematic, Color Grading, portrait Photography, Ultra-Wide Angle, Depth of Field, hyper-detailed, beautifully color-coded, insane details, intricate details, beautifully color graded, Unreal Engine, Cinematic, Color Grading, Editorial Photography, Photography, Photoshoot, Depth of Field, DOF, Tilt Blur, White Balance, 32k, Super-Resolution, Megapixel, ProPhoto RGB, VR, Halfrear Lighting, Backlight, Natural Lighting, Incandescent, Optical Fiber, Moody Lighting, Cinematic Lighting, Studio Lighting, Soft Lighting, Volumetric, Contre-Jour, Beautiful Lighting, Accent Lighting, Global Illumination, Screen Space Global Illumination, Ray Tracing Global Illumination, Optics, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Grading, Chromatic Aberration, GB Displacement, Scan Lines, Ray Traced, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post-Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed and intricate, hypermaximalist, elegant, hyper realistic, super detailed, dynamic pose, photography, 8k --v 4',
+    },
+    {
+      image:
+        'Tyr_Alexander_dire_wolf_black_and_white_image_for_coloring_book_4fdb9f6f-731b-4ab8-9ab9-8062fa074723.png',
+      prompt: 'dire wolf, black and white image for coloring book',
+    },
+    {
+      image:
+        'human_tight_bodysuit_armor_future_retro_evangelion_K-pop_aesthe_e35bb010-6985-43da-b6c7-75101023515f.png',
+      prompt:
+        'tight bodysuit armor future retro, evangelion, K-pop aesthetics, entire body, frontal pose, fashion model pose, feminine figure, real human face, minimal, low angle view, extreme perspective, photographic, hyperrealistic, cinematic, 8K, extreme detail, extremely realistic, vibrant colors, textural, HD ultra-realistic, 35mm lens, skintight, transparent latex, soft mood light, matte, extreme pose, head to toe, full figured, Hyper feminine figure, hypersexualized, revealing, body figure, vibrant neon light, 35mm film photography, full grain, epic lighting, tall background, full frame, dramatic lights, neo-future landscape, --ar 2:3',
+    },
+    {
+      image:
+        'Hiprioni_Sikorsky_sea_king_helicopter_but_from_Star_Wars_39de8efe-ae47-4af6-9aab-961462451a34.png',
+      prompt: 'Sikorsky sea king helicopter but from Star Wars',
+    },
+    {
+      image:
+        'Hiprioni_environment_concept_art_feudal_Japan_evening_winter_Ja_1db1c8c3-d01f-4fbb-b204-ea819e4bfab1.png',
+      prompt:
+        'environment concept art, feudal Japan, evening, winter, Japanese lanterns, girl walking upstairs wearing traditional dress, nine tail fox walking on the right side from the --ar 3:2',
+    },
+    {
+      image:
+        'Kennydakydd_tattoos_Old_western_Afro_Samurai_by_Anna_Dittmann_V_d850a14f-ad8b-4b18-8bf3-769c895f3e11.png',
+      prompt:
+        'Old western Afro Samurai by Anna Dittmann, Vibrant, In Watercolour --ar 2:3 --c 30',
+    },
+    {
+      image:
+        'oma_thule_portrait_a_beautiful_30-year-old_Norwegian_female_bea_03936a6d-efb6-467e-9b17-97a8c44b9633.png',
+      prompt:
+        "portrait a beautiful 30-year-old Norwegian female beautiful model photographed by Sally Mann in black and white, shot from the waist up, wearing a red denim jacket with a white fur red collar, standing in the bus, photo taken against the sun, the sun's rays illuminate the hair and back, hyper-detailed skin, hyper-realistic eyes, blonde-hair --ar 2:3 --v 4",
+    },
+    {
+      image:
+        'Kennydakydd_tattoos_Ancient_African_Goddess_complimentary_color_c9233b15-7e4e-4d30-a1ff-a8f552450b53.png',
+      prompt:
+        'Ancient African Goddess, complimentary colored butterfly,by Anna Dittmann, Vibrant, In Watercolour --ar 2:3 --c 30',
+    },
+    {
+      image:
+        'kike-snt_ilustration_crazy_skeleton_on_war_in_style_of_iron_mai_e3f76307-845e-4df5-98f5-99e86581ff9d.png',
+      prompt:
+        'illustration, crazy skeleton on war in style of iron maiden --ar 2:3 --v 4',
+    },
+    {
+      image:
+        'Hiprioni_cyberpunk_styled_bike_painted_red_and_chrome_details_s_aa8d92c2-1715-4e28-bd5e-6960886d81a2.png',
+      prompt:
+        'cyberpunk styled bike, painted red and chrome, details shape is smooth',
+    },
+    {
+      image:
+        'ingyt_a_demon_embraces_a_beautiful_woman_red_moon_Ashley_wood_s_d762bcca-0c92-4ff8-bdf5-e493a396552b.png',
+      prompt:
+        'a demon embraces a beautiful woman, red moon, Ashley wood style, --ar 2:3 --v 4',
+    },
+    {
+      image:
+        'emmylouthejew_Twilight_low_angle_view_of_the_Milky_Way_from_wit_6c217fd8-c508-4670-8d09-020e9f9c94dd.png',
+      prompt:
+        'Twilight low angle view of the Milky Way from within the overhanging branches of an epic willow tree, overgrown with ivy + ferns + vines + fungi, decay, rising mist, nearby stream, stars, dramatic natural night lighting, cinematic, mystical, intriguing, serene, hdr, intricately detailed, octane render --q 4 --upbeta --chaos 100 --ar 3:2',
+    },
+    {
+      image:
+        'emmylouthejew_Twilight_low_angle_view_of_the_Milky_Way_from_wit_e53591df-1493-4498-940b-b9a57ecc9875.png',
+      prompt:
+        'Twilight low angle view of the Milky Way from within the overhanging branches of an epic willow tree, overgrown with ivy + ferns + vines + fungi, decay, rising mist, nearby stream, stars, dramatic natural night lighting, cinematic, mystical, intriguing, serene, hdr, intricately detailed, octane render --ar 3:2 --test --creative --upbeta --chaos 10',
+    },
+    {
+      image:
+        'earthkdkd_japanese_samurai_whole_body_portrait_in_the_style_of__20f10129-1405-4be9-9b8c-8fbf5f4ff200.png',
+      prompt:
+        'japanese samurai, whole body portrait in the style of Gustav Klimt::7 and HR Gigger::4, 3D::3, ornamental organic metallic machinery design::4, morphing smoke on edges::6, gold::4, fractals::1, jewellery::3 Reflections, Color Grading, Ultra-Wide Angle, Depth of Field, hyper-detailed, beautifully color-coded, intricate details, photorealistic, 8k, cinematography, photorealistic --v 4 --s 850 --ar 3:2 --q 5',
+    },
+    {
+      image:
+        'earthkdkd_japanese_samurai_whole_body_portrait_in_the_style_of__aa557687-88af-48a2-87a7-7f3fb4a6f524.png',
+      prompt:
+        'japanese samurai, whole body portrait in the style of Gustav Klimt::7 and HR Gigger::4, 3D::3, ornamental organic metallic machinery design::4, morphing smoke on edges::6, gold::4, fractals::1, jewellery::3 Reflections, Color Grading, Ultra-Wide Angle, Depth of Field, hyper-detailed, beautifully color-coded, intricate details, photorealistic, 8k, cinematography, photorealistic --v 4 --s 850 --ar 3:2 --q 5',
+    },
+    {
+      image:
+        'JasonW_cartoon_windup_fish_robotic_93099359-edcf-40b2-9faf-fa88f721e4d2.png',
+      prompt: 'cartoon windup fish, robotic',
+    },
+    {
+      image:
+        'Natstah_harry_potter_cyberpunk_d1489434-7829-464a-8494-dd06aac27668.png',
+      prompt: 'harry potter cyberpunk',
+    },
+    {
+      image:
+        'LittleAnt_9_tail_fox_looking_forward_red_and_White_cute_anime_s_ae556870-71ba-4e83-8983-9dce8e115a68.png',
+      prompt:
+        '9 tail fox, looking forward, red and White, cute anime style, sticker style, goofy looking',
+    },
+    {
+      image:
+        'LPKILI_Very_Dark_Room_Glowing_ball_lens_flare_hologram_hologra_e42b799a-826b-491f-900f-112372e576e6.png',
+      prompt:
+        'Very Dark Room, Glowing ball, lens flare, hologram, holographic, earth globe atlas, grid matrix, floating, flying, Isolated, 3d render, 8k, HD, cinematography, photorealistic, epic composition Unreal Engine, Cinematic, Color Grading, portrait Photography, Ultra-Wide Angle, Depth of Field, hyper-detailed, beautifully color-coded, insane details, intricate details, beautifully color graded, Unreal Engine, Cinematic, Color Grading, Editorial Photography, Photography, Photoshoot, Depth of Field, DOF, Tilt Blur, White Balance, 32k, Super-Resolution, Megapixel, ProPhoto RGB, VR, Halfrear Lighting, Backlight, Natural Lighting, Incandescent, Optical Fiber, Moody Lighting, Cinematic Lighting, Studio Lighting, Soft Lighting, Volumetric, Contre-Jour, Beautiful Lighting, Accent Lighting, Global Illumination, Screen Space Global Illumination, Ray Tracing Global Illumination, Optics, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Grading, Chromatic Aberration, GB Displacement, Scan Lines, Ray Traced, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post-Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed and intricate, hypermaximalist, elegant, hyper realistic, super detailed, dynamic pose, photography, no background, Typography LP, 8k 8k --v 4 --v 4 --ar 3:2',
+    },
   ]
 
   const handleNext = () => {
