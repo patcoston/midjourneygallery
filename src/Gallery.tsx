@@ -308,40 +308,49 @@ const Gallery: React.FC = () => {
     },
   ]
 
+  const imagesPerPage = 5
+
   const handleNext = () => {
-    if (currentIndex + 10 >= images.length) {
+    if (currentIndex + imagesPerPage >= images.length) {
       setCurrentIndex(0)
     } else {
-      setCurrentIndex(currentIndex + 10)
+      setCurrentIndex(currentIndex + imagesPerPage)
     }
+    window.scrollTo(0, 0)
   }
 
   const handlePrevious = () => {
-    if (currentIndex - 10 < 0) {
-      setCurrentIndex(images.length - (images.length % 10))
+    if (currentIndex - imagesPerPage < 0) {
+      setCurrentIndex(images.length - (images.length % imagesPerPage))
     } else {
-      setCurrentIndex(currentIndex - 10)
+      setCurrentIndex(currentIndex - imagesPerPage)
     }
+    window.scrollTo(0, 0)
+  }
+
+  const Buttons = () => {
+    return (
+      <div>
+        <button onClick={handlePrevious}>PREVIOUS</button>
+        <button onClick={handleNext}>NEXT</button>
+      </div>
+    )
   }
 
   return (
     <div>
       <h1>Midjourney Gallery with Prompts</h1>
-      <div>
-        <button onClick={handlePrevious}>PREVIOUS</button>
-        <button onClick={handleNext}>NEXT</button>
-      </div>
-      {images.slice(currentIndex, currentIndex + 10).map((image, index) => (
-        <div key={index}>
-          <div>{`Image ${currentIndex + index + 1} of ${images.length}`}</div>
-          <img src={`images/${image.image}`} />
-          <div>{image.prompt}</div>
-        </div>
-      ))}
-      <div>
-        <button onClick={handlePrevious}>PREVIOUS</button>
-        <button onClick={handleNext}>NEXT</button>
-      </div>
+      <Buttons />
+      {images
+        .slice(currentIndex, currentIndex + imagesPerPage)
+        .map((image, index) => (
+          <div key={index}>
+            <div>{`Image ${currentIndex + index + 1} of ${images.length}`}</div>
+            <img src={`images/${image.image}`} />
+            <div>{image.prompt}</div>
+          </div>
+        ))}
+      <Buttons />
     </div>
   )
 }
